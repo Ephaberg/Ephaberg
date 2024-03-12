@@ -1,4 +1,11 @@
 # Ephaberg's Stats
+![Liberapay giving](https://img.shields.io/liberapay/gives/ephaberg?style=social&logoColor=yellow)
+![GitHub License](https://img.shields.io/github/license/Ephaberg/slowloris?style=social&logo=Legal%20Disclaimer&logoColor=yellow&labelColor=yellow&color=yellow)
+![Liberapay receiving](https://img.shields.io/liberapay/receives/ephaberg?style=social&logoColor=yellow)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Ephaberg?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ephaberg/slowloris?style=social&logoColor=green&labelColor=green&color=green)
+
+
 [![Ephaberg profile views](https://u8views.com/api/v1/github/profiles/55717387/views/day-week-month-total-count.svg)](https://u8views.com/github/Ephaberg)
 
 <img alt="timer" src="https://wakatime.com/badge/user/018e32d0-e417-4d7d-ba5a-e0f7cd56ac3a.svg"/>
