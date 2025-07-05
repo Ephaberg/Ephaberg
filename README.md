@@ -1,20 +1,25 @@
-# Ephaberg's Stats
-![Liberapay giving](https://img.shields.io/liberapay/gives/ephaberg?style=social&logoColor=yellow)
-![GitHub License](https://img.shields.io/github/license/Ephaberg/slowloris?style=social&logo=Legal%20Disclaimer&logoColor=yellow&labelColor=yellow&color=yellow)
-![Liberapay receiving](https://img.shields.io/liberapay/receives/ephaberg?style=social&logoColor=yellow)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Ephaberg?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/Ephaberg/slowloris?style=social&logoColor=green&labelColor=green&color=green)
+# 💫 About Me:
+Hi there! I’m Ephaberg Ephraim (Ephraim Ayeh) — a passionate cybersecurity enthusiast, programmer, and lifelong learner. I specialize in ethical hacking, penetration testing, and cloud security, and I love building projects that blend security and technology. My mission is to make cybersecurity accessible through hands-on learning, challenges, and real-world applications.
 
 
-[![Ephaberg profile views](https://u8views.com/api/v1/github/profiles/55717387/views/day-week-month-total-count.svg)](https://u8views.com/github/Ephaberg)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yxcPn4uUmg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/einfosecs) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@einfosecs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@einfosecs) 
 
-<img alt="timer" src="https://wakatime.com/badge/user/018e32d0-e417-4d7d-ba5a-e0f7cd56ac3a.svg"/>
-<img alt="Follow" src="https://img.shields.io/github/stars/Ephaberg/slowloris?style=social"/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ephaberg&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ephaberg&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephaberg&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ephaberg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Ephaberg's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ephaberg&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ephaberg/github-readme-stats#gh-dark-mode-only)
-[![Ephaberg's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ephaberg&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ephaberg/github-readme-stats#gh-light-mode-only)
+---
+[![](https://visitcount.itsvg.in/api?id=Ephaberg&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ephaberg) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephaberg&hide_progress=true)
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
